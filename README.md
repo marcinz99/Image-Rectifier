@@ -35,7 +35,7 @@ ___
 > * `python img_rectifier.py really_bad_lighting.jpg`
 > * `img_rectifier.py really_bad_lighting.jpg`
 
-There is also a way to make it less tedious, but this would require aliasing it in some way or placing it in `/Python/Scripts` folder, if you want.
+There is also a way to make it less tedious, but this would require aliasing.
 
 NOTE: By deafult the enhanced photos are saved with prefix '_' - therefore you should only pass filenames and not filepaths.
 
