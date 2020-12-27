@@ -10,7 +10,7 @@ Keep in mind that this IS NOT a super user-friendly script. It was not even mean
 ___
 
 ## Requirements
-Mind that this is rather importand part of readme ;)
+Mind that this is rather important part of readme ;)
 
 In order to run this script, one need to have (obviously) Python 3 environment already installed and configured, as well as the following libraries: `numpy`, `Pillow`. Those are, however, rather popular ones, and chances are that you already have them in your base environment.
 
